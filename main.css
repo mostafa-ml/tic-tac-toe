@@ -240,5 +240,6 @@ ul li.right:after {
 @media (max-width: 480px) {
     .game-over {
         font-size: 30px;
+        padding: 5px 10px;
     }
 }
